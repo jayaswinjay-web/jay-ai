@@ -9,6 +9,11 @@
   </p>
 </div>
 
+![License](https://img.shields.io/github/license/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
+![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
+![CI](https://github.com/jayaswinjay-web/jay-ai/actions/workflows/ci.yml/badge.svg)
+![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
+
 ## Overview
 
 JAY AI is an intelligent chatbot and business process automation platform built with Python and powered by the Google Gemini API. It handles intelligent customer service, automated responses, and business workflow automation for enterprises.
