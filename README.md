@@ -1,18 +1,24 @@
 <div align="center">
-  <h1>🤖 JAY AI</h1>
-  <p><em>AI-powered chatbot & automation platform</em></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/AI-Google%20Gemini-8E75B2?style=flat-square&logo=google" alt="Gemini">
-    <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
-  </p>
+  <img src="https://raw.githubusercontent.com/jayaswinjay-web/shared-assets/main/screenshots/jay-ai-demo.svg" width="100%" alt="JAY AI Screenshot">
 </div>
 
-![License](https://img.shields.io/github/license/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
-![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
-![CI](https://github.com/jayaswinjay-web/jay-ai/actions/workflows/ci.yml/badge.svg)
-![GitHub Repo](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)
+<br>
+
+<div align="center">
+
+[![License](https://img.shields.io/github/license/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/jay-ai/commits)
+[![CI](https://github.com/jayaswinjay-web/jay-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/jayaswinjay-web/jay-ai/actions)
+[![Repo Size](https://img.shields.io/github/repo-size/jayaswinjay-web/jay-ai?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/jay-ai)
+[![Stars](https://img.shields.io/github/stars/jayaswinjay-web/jay-ai?style=social)](https://github.com/jayaswinjay-web/jay-ai)
+
+---
+
+### ⭐ Support This Project — [Star on GitHub](https://github.com/jayaswinjay-web/jay-ai) ⭐
+
+---
+
+</div>
 
 ## Overview
 
@@ -75,6 +81,15 @@ jay-ai/
 ## About JAY TECH SOLUTIONS
 
 JAY AI is part of the [JAY TECH SOLUTIONS](https://jaytechsoln.in) product suite — a collection of business software products serving 50,000+ users across India.
+
+## Show Your Support
+
+- ⭐ **Star this repo** — helps others discover it
+- 🐛 **Report issues** — I respond within 24 hours
+- 📬 **Share feedback** — contact@jaytechsoln.in
+- ☕ **Buy me a coffee** — [Sponsor](https://github.com/sponsors/jayaswinjay-web)
+
+Made with ❤️ by [Aswin Jay](https://github.com/Aswinajay) — part of [JAY TECH SOLUTIONS](https://jaytechsoln.in)
 
 ## License
 
